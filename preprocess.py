@@ -94,8 +94,9 @@ def SampleDataset(name,TARGET_DIR,TARGET_TRAIN_NUM=200,TARGET_TEST_NUM=50):
 
 
 if __name__ == "__main__":
-    #SampleDataset("sample_500",TARGET_DIR,400, 100)
-    #SampleDataset("sample_1000",TARGET_DIR,800, 200)
-    #SampleDataset("sample_2500",TARGET_DIR,1600, 400)
+    SampleDataset("dev",TARGET_DIR,200, 50)
+    SampleDataset("sample_500",TARGET_DIR,400, 100)
+    SampleDataset("sample_1000",TARGET_DIR,800, 200)
+    SampleDataset("sample_2500",TARGET_DIR,1600, 400)
     SampleDataset("sample_2500",TARGET_DIR,2000, 500)
     SampleDataset("sample_5000",TARGET_DIR,4000, 1000)
