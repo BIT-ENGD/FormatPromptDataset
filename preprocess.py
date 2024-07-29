@@ -8,7 +8,7 @@ from shutil import copyfile
 DIRLIST=["7ZIP-LZMA","APK","CSS","CSV","BMP","DLL","DOC","DOCX","DWG","ELF","EPS","EPUB","exe","PNG-c0","GIF","GZIP","HTML","ICS","JAVASCRIPT","JPG","POWERSHELL","PPT","PPTX","JSON","lossless-c0","MKV","MP4","ODS","OXPS","MP3","SVG","TAR","RAR","TIF","TXT","XLS","PDF","XLSX","XML","ZIP-LZMA","ZLIB"]
 TYPELIST=["7ZIP","APK","CSS","CSV","BMP","DLL","DOC","DOCX","DWG","ELF","EPS","EPUB","exe","PNG","GIF","GZIP","HTML","ICS","JAVASCRIPT","JPG","POWERSHELL","PPT","PPTX","JSON","WEBP","MKV","MP4","ODS","OXPS","MP3","SVG","TAR","RAR","TIF","TXT","XLS","PDF","XLSX","XML","ZIP","ZLIB"]
 
-SRC_DIR="G:\\迅雷下载\\NapierOne-total"
+SRC_DIR="G:\\NapierOne-total"
 TARGET_DIR="f:\\all_dataset"
 SUFFIX="-total"
 
